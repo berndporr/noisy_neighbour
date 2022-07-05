@@ -7,7 +7,7 @@ Every peak represents an exercise weight hitting the floor in flat 0/1 below.
 
 ## Sound levels from 2:27am *before* the police visited him
 
-![alt tag](Loudness_5_July_from_2_27.jpg)
+![alt tag](Loudness_5_July_from_2_27.png)
 
 Six "thuds" can be heard at:
 ```
@@ -24,7 +24,7 @@ Thud #6 at 2022-07-05 03:50:59.026000
 *Constantly* throwing exercise weights on the floor with
 much higher intensity so that the recorder went *off scale* (=1).
 
-![alt tag](Loudness_5_July_from_4_38.jpg)
+![alt tag](Loudness_5_July_from_4_38.png)
 
 15 "thuds" can be heard at:
 ```
