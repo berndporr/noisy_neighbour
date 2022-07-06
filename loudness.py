@@ -68,6 +68,30 @@ plt.ylim([0,1])
 
 
 
+##################################################
+
+
+f = wavfile.read('STE_5_jul_23_49_500Hz.wav');
+fs = f[0]
+y = f[1] / 32768.0
+
+y = np.abs(y)
+
+customdate = datetime.datetime(2022, 7, 5, 23, 49)
+x = [customdate + datetime.timedelta(seconds=i/fs) for i in range(len(y))]
+
+t = "Loudness - 5 July from 23:49"
+print(t)
+detthuds(fs,customdate,y)
+
+plt.figure(t)
+plt.title(t)
+plt.plot(x,y)
+plt.xlabel("Date/time")
+plt.ylabel("Loudness (Zoom H4, sens high)")
+plt.ylim([0,1])
+
+
 
 
 
