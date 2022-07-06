@@ -5,6 +5,8 @@ recorder. Sensitivity set to "high" (=night time).
 
 Every peak represents an exercise weight hitting the floor in flat 0/1 below.
 
+# 5th July
+
 ## Sound levels from 2:27am *before* the police visited him
 
 ![alt tag](Loudness_5_July_from_2_27.png)
@@ -45,14 +47,37 @@ Thud #14 at 2022-07-05 05:08:57.520000
 Thud #15 at 2022-07-05 05:11:19.898000
 ```
 
+# 6th July
+
+It was all quiet till exactly 2:30am in the morning and then the
+weights started hitting the ground (continues longer than the 1 1/2
+hrs but can't be bothered to add the other files).
+
+![alt tag](Loudness_-_5_July_from_23_49.png)
+
+```
+Thud #1 at 2022-07-06 02:29:50.632000
+Thud #2 at 2022-07-06 02:32:05.804000
+Thud #3 at 2022-07-06 02:34:48.706000
+Thud #4 at 2022-07-06 02:42:47.756000
+Thud #5 at 2022-07-06 02:52:01.340000
+Thud #6 at 2022-07-06 02:56:18.606000
+Thud #7 at 2022-07-06 03:00:59.634000
+Thud #8 at 2022-07-06 03:24:10.868000
+Thud #9 at 2022-07-06 03:35:02.558000
+Thud #10 at 2022-07-06 03:38:20.434000
+Thud #11 at 2022-07-06 03:52:26.458000
+```
+
+
 ## Sound files
 
 Original recordings were at 44kHz sampling rate.
 
 To be able to load the ~1hr WAV into python it was downsampled to
-500Hz sampling rate to focus on the low base frequencies or "thuds":
+500Hz sampling rate to focus on the low base frequencies or "thuds".
+For example:
 
 ```
 sox STE-038_2_27_5jul.wav -c 1 -r 500 STE-038_2_27_5jul_500Hz.wav
-sox STE-039_4_38_5jul.wav -c 1 -r 500 STE-039_4_38_5jul_500Hz.wav
 ```
