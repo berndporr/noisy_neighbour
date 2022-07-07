@@ -73,7 +73,7 @@ Thud #11 at 2022-07-06 03:52:26.458000
 
 ![alt tag](Loudness_-_7_July_from_0_11.png)
 
-High frequency bumps every few seconds around 3:15am
+High frequency "thuds" (with a hammer?) every few seconds around 3:15am
 and 4:25am.
 
 ```
