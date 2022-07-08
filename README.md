@@ -188,6 +188,33 @@ Thud #108 at 2022-07-07 04:30:15.636000
 Thud #109 at 2022-07-07 04:30:19.614000
 ```
 
+# 8 July 2022
+
+![alt tag](Loudness_-_Fri_Jul__8_00_40_00_2022.png)
+
+Massive bang right at the start of the night which went off scale
+but at that time I was still working. Then the "usual"
+thuds from 3:20am in the morning.
+
+```
+Thud #1 at 2022-07-08 01:22:21.136000
+Thud #2 at 2022-07-08 03:20:22.126000
+Thud #3 at 2022-07-08 03:25:56.060000
+Thud #4 at 2022-07-08 03:35:39.130000
+Thud #5 at 2022-07-08 03:41:50.552000
+Thud #6 at 2022-07-08 03:41:52.276000
+Thud #7 at 2022-07-08 04:01:13.426000
+Thud #8 at 2022-07-08 04:03:38.580000
+Thud #9 at 2022-07-08 04:06:17.028000
+Thud #10 at 2022-07-08 04:10:44.936000
+Thud #11 at 2022-07-08 04:12:22.974000
+Thud #12 at 2022-07-08 04:17:31.916000
+Thud #13 at 2022-07-08 04:22:18.608000
+Thud #14 at 2022-07-08 04:27:45.174000
+Thud #15 at 2022-07-08 04:58:54.552000
+```
+
+
 
 ## Sound files
 
