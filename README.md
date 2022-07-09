@@ -216,6 +216,19 @@ Thud #14 at 2022-07-08 04:27:45.174000
 Thud #15 at 2022-07-08 04:58:54.552000
 ```
 
+# 9 July 2022
+
+![alt tag](Loudness_-_Sat_Jul__9_01_47_00_2022.png)
+
+Only a few loud thuds through the night. Woken up "just" twice!
+
+```
+Thud #1 at 2022-07-09 03:19:09.416000
+Thud #2 at 2022-07-09 03:21:06.714000
+Thud #3 at 2022-07-09 03:21:08.778000
+Thud #4 at 2022-07-09 03:58:42.212000
+```
+
 
 
 ## Sound files
