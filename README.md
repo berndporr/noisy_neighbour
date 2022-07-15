@@ -71,6 +71,10 @@ Thud #11 at 2022-07-06 03:52:26.458000
 
 # 7th July
 
+Probably so far the most disturbing night: 1st some constant hammering while he
+was walking throught the flat, then loads of thuds with heavy weights hitting
+the floor and then again constant hammering while walking around (even to the main door).
+
 ![alt tag](Loudness_-_7_July_from_0_11.png)
 
 ## Constant hammering sounds at 3:15am & 4:25am
@@ -78,10 +82,10 @@ Thud #11 at 2022-07-06 03:52:26.458000
 Loads of "thuds" (with a hammer???) every few seconds around 3:15am
 and 4:25am.
 
-[MP3 / Sound recording form 4:25am with the hammer-sounds where he walks
+[4:25am: MP3 / Sound recording with the hammer-sounds where he walks
 through the flat while hammering walls/floor,
 then goes to the main door and hammers
-against that so that the whole close echoes the hammering sound (at 4:25) and
+against that so that the whole close echoes the hammering sound (at 4:25 into the recording) and
 then goes back into the flat continues hammering.](<./flat11-7juj_4_25am.mp3>).
 
 ```
