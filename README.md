@@ -1,7 +1,18 @@
 # Noisy Neighbour
 
-Noise levels in flat 1/1 measured with a zoom H4 ambient sound
-recorder. Sensitivity set to "high" (=night time).
+Neighbour moved in and listened to max volume all night to
+podcasts about spirituality, global warming
+and self care while pumping weights.
+
+A "best of" here: https://youtu.be/hyjDLyST_qQ
+
+Then the police confiscated his TV & stereo. 
+
+Without a TV & stereo he resorted terrorising the house by dropping
+exercise weights which can even be felt on the street.
+
+I started measuring the noise levels in flat 1/1 measured with a zoom H4 ambient sound
+recorder and wrote a python script detecting the "thuds". Sensitivity set to "high" (=night time).
 
 Every peak represents an exercise weight hitting the floor in flat 0/1 below.
 
