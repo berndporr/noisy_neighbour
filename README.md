@@ -241,7 +241,9 @@ Thud #4 at 2022-07-09 03:58:42.212000
 
 # 9 July 2022
 
-Started at about 6:30am but had to swap battery and get up.
+[From 4am he did some DIY with a hammer.](<./nn18jul.mp4>)
+
+The weight-dropping started at about 6:30am (but had to swap battery so missed the start).
 
 ![alt tag](Loudness_-_Mon_Jul_18_06_54_00_2022.png)
 
@@ -266,7 +268,7 @@ Thud #13 at 2022-07-18 07:28:13.990000
 
 Original recordings were at 44kHz sampling rate.
 
-To be able to load the ~1hr WAV into python it was downsampled to
+To be able to load the 6hr WAV into python it was downsampled to
 500Hz sampling rate to focus on the low base frequencies or "thuds".
 For example:
 
