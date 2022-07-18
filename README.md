@@ -239,9 +239,9 @@ Thud #3 at 2022-07-09 03:21:08.778000
 Thud #4 at 2022-07-09 03:58:42.212000
 ```
 
-# 9 July 2022
+# 18 July 2022
 
-[From 4am he did some DIY with a hammer.](<./nn18jul.mp4>)
+[From 4am he did some DIY with a hammer (a couple of audio examples)](<./nn18jul.mp4>)
 
 The weight-dropping started at about 6:30am (but had to swap battery so missed the start).
 
