@@ -286,8 +286,8 @@ All quiet. I guess pumping weights during the heatwave even at 4am is too much.
 
 # 20 July
 
-Exercise weights started hitting the floor at 5:30am with first
-quick banging and then something heavy dropping on the floor.
+Exercise weights started hitting the floor at 5:28am with first
+quick banging (against a wall?) and then something heavy dropping on the floor.
 
 ![alt tag](Loudness_-_Wed_Jul_20_05-02-00_2022.png)
 
