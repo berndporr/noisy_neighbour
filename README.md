@@ -333,6 +333,8 @@ Thud #38 at 2022-07-20 06:00:57.440000
 Thud #39 at 2022-07-20 06:01:23.170000
 ```
 
+[example MP3 of one of these slowly building up thuds till the final massive bang](<./STE-20Jul_sample_thud.mp3>) -- Listen with headphones as it sounds like a basedrum being kicked.
+
 ## Sound files
 
 Original recordings were at 44kHz sampling rate.
