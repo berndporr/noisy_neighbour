@@ -11,8 +11,8 @@ Then the police confiscated his TV & stereo.
 Without a TV & stereo he resorted terrorising the house by dropping
 exercise weights which can even be felt on the street.
 
-I started measuring the noise levels in flat 1/1 measured with a zoom H4 ambient sound
-recorder and wrote a python script detecting the "thuds". Sensitivity set to "high" (=night time).
+I started measuring the noise levels in my flat 1/1 with a zoom H4 ambient sound
+recorder and wrote a python script detecting the "thuds". Sensitivity at the zoom set to "high" (=night time).
 
 Every peak represents an exercise weight hitting the floor in flat 0/1 below.
 
@@ -336,6 +336,25 @@ Thud #39 at 2022-07-20 06:01:23.170000
 ```
 
 [Example MP3 of one of these slowly building up thuds till the final massive bang](<./STE-20Jul_sample_thud.mp3>) -- Listen with headphones as it sounds like a basedrum being kicked.
+
+# 21 July
+
+![alt tag](Loudness_-_Wed_Jul_20_23_20-00_2022.png)
+
+Thuds spaced perfectly over the entire night. Every single one woke me up.
+
+```
+Thud #1 at 2022-07-21 01:10:19.864000
+Thud #2 at 2022-07-21 01:31:33.390000
+Thud #3 at 2022-07-21 01:49:45.474000
+Thud #4 at 2022-07-21 02:39:43.308000
+Thud #5 at 2022-07-21 03:04:39.020000
+Thud #6 at 2022-07-21 03:18:06.958000
+Thud #7 at 2022-07-21 04:12:46.954000
+Thud #8 at 2022-07-21 04:47:26.486000
+Thud #9 at 2022-07-21 04:51:53.096000
+Thud #10 at 2022-07-21 05:17:56.928000
+```
 
 ## Sound files
 
