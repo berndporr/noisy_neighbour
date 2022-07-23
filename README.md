@@ -380,6 +380,31 @@ Thud #15 at 2022-07-22 02:54:40.164000
 Thud #16 at 2022-07-22 02:58:53.822000
 ```
 
+# 23rd July
+
+Quiet all night. Then at 6am he started
+pumping weights and then at 6:25 I started
+recording realising that's going on for a while...
+
+![alt tag](Loudness_-_Sat_Jul_23_06_24_00_2022.png)
+
+```
+Thud #1 at 2022-07-23 06:25:11.062000
+Thud #2 at 2022-07-23 06:27:58.340000
+Thud #3 at 2022-07-23 06:27:59.408000
+Thud #4 at 2022-07-23 06:32:10.288000
+Thud #5 at 2022-07-23 06:32:11.306000
+Thud #6 at 2022-07-23 06:35:00.442000
+Thud #7 at 2022-07-23 06:38:13.364000
+Thud #8 at 2022-07-23 06:39:27.192000
+Thud #9 at 2022-07-23 06:42:38.354000
+Thud #10 at 2022-07-23 06:46:35.592000
+Thud #11 at 2022-07-23 06:46:36.592000
+Thud #12 at 2022-07-23 06:51:06.310000
+Thud #13 at 2022-07-23 06:56:47.238000
+Thud #14 at 2022-07-23 07:00:40.866000
+```
+
 ## Sound files
 
 Original recordings were at 44kHz sampling rate.
