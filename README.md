@@ -405,6 +405,29 @@ Thud #13 at 2022-07-23 06:56:47.238000
 Thud #14 at 2022-07-23 07:00:40.866000
 ```
 
+# 24 July
+
+Back to his standard routine to do it properly in the middle
+of the night.
+
+![alt tag](Loudness_-_Sun_Jul_24_01_17_00_2022.png)
+
+```
+Thud #1 at 2022-07-24 03:15:39.450000
+Thud #2 at 2022-07-24 03:50:08.538000
+Thud #3 at 2022-07-24 04:33:33.690000
+Thud #4 at 2022-07-24 04:37:06.138000
+Thud #5 at 2022-07-24 04:40:20.902000
+Thud #6 at 2022-07-24 04:44:20.314000
+Thud #7 at 2022-07-24 04:47:45.810000
+Thud #8 at 2022-07-24 04:51:01.152000
+Thud #9 at 2022-07-24 04:53:25.442000
+Thud #10 at 2022-07-24 04:59:12.006000
+Thud #11 at 2022-07-24 05:02:00.198000
+Thud #12 at 2022-07-24 05:04:49.210000
+Thud #13 at 2022-07-24 05:08:09.566000
+```
+
 ## Sound files
 
 Original recordings were at 44kHz sampling rate.
