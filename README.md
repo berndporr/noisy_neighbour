@@ -407,6 +407,7 @@ Thud #14 at 2022-07-23 07:00:40.866000
 
 I've calibrated the zoom recorder to dB A weighted so here is
 the plot in dB with the threshold of the Scottish government.
+https://www.gov.scot/publications/antisocial-behaviour-etc-scotland-act-2004-guidance-noise-nuisance/pages/1/
 ![alt tag](L_Aeq_-_Sat_Jul_23_06_23_00_2022.png)
 Even that that the thuds are very low frequency and
 because of the A weighting highly damped they still
