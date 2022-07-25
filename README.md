@@ -477,7 +477,7 @@ the threshold.
 
 I've also measured the acceleration of the floor next to my bed last night
 with the http://www.attys.tech:
-![alt tag](Acceleration_-_Sun_Jul_24_23_44_50_2022.png)
+![alt tag](Acceleration_-_Mon_Jul_25_05_18_10_2022.png)
 see https://www.euronoise2018.eu/docs/papers/277_Euronoise2018.pdf
 about the analysis of gym kit hitting the ground.
 
