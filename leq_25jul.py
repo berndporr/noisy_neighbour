@@ -18,14 +18,14 @@ import leq_math
 
 chunk_duration = 10 # secs
 
-f = wavfile.read("/tmp/ste-25jul_05_37_16kHz.wav")
+f = wavfile.read("/tmp/ste-25jul_05_38_16kHz.wav")
 fs = f[0]
 y = f[1] / 32768.0
 print("nsamples in recording =",len(y))
 chunk = fs * chunk_duration
 print("nsamples in a chunk of {} secs = {}".format(chunk_duration,chunk))
 
-customdate = datetime.datetime(2022, 7, 25, 5, 37)
+customdate = datetime.datetime(2022, 7, 25, 5, 38, 30)
 t = "L_Aeq - "+customdate.strftime("%c")
 
 ts = []

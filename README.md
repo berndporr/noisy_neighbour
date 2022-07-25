@@ -462,7 +462,7 @@ Thud #14 at 2022-07-25 06:15:57.474000
 
 These raw sound readings can be converted into equivalent loudness
 A weighted:
-![alt tag](L_Aeq_-_Mon_Jul_25_05_37_00_2022.png)
+![alt tag](L_Aeq_-_Mon_Jul_25_05_38_30_2022.png)
 
 The orange line is the permitted equivalent A weighted loudness set
 by the Scottish Government. In particular today it went way over
