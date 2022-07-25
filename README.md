@@ -437,6 +437,37 @@ Thud #12 at 2022-07-24 05:04:49.210000
 Thud #13 at 2022-07-24 05:08:09.566000
 ```
 
+# 25 Jul
+
+Quiet-ish except for some hammering in the middle
+of the night but then at 5:30am he went for it!
+
+![alt tag](Loudness_-_Sun_Jul_24_23_56_00_2022.png)
+
+```
+Thud #2 at 2022-07-25 05:40:28.322000
+Thud #3 at 2022-07-25 05:43:34.408000
+Thud #4 at 2022-07-25 05:45:30.044000
+Thud #5 at 2022-07-25 05:48:43.242000
+Thud #6 at 2022-07-25 05:52:22.448000
+Thud #7 at 2022-07-25 05:54:22.344000
+Thud #8 at 2022-07-25 05:57:24.002000
+Thud #9 at 2022-07-25 05:59:46.542000
+Thud #10 at 2022-07-25 06:02:26.746000
+Thud #11 at 2022-07-25 06:05:06.486000
+Thud #12 at 2022-07-25 06:07:39.304000
+Thud #13 at 2022-07-25 06:13:50.634000
+Thud #14 at 2022-07-25 06:15:57.474000
+```
+
+These raw sound readings can be converted into equivalent loudness
+A weighted:
+![alt tag](L_Aeq_-_Mon_Jul_25_05_37_00_2022.png)
+
+The orange line is the permitted equivalent A weighted loudness set
+by the Scottish Government. In particular today it went way over
+the threshold and my sound recorder went actually off the scale once.
+
 ## Sound files
 
 Original recordings were at 44kHz sampling rate.
