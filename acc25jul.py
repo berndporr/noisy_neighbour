@@ -16,8 +16,9 @@ fs = 250
 
 customdate = datetime.datetime.fromtimestamp(1658702690)
 x = [customdate + datetime.timedelta(seconds=(i+a)/fs) for i in range(len(a1))]
+xs = customdate + datetime.timedelta(seconds=(a)/fs)
 
-t = "Acceleration - "+customdate.strftime("%c")
+t = "Acceleration - "+xs.strftime("%c")
 
 print(t)
 
