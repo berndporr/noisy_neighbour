@@ -468,9 +468,20 @@ These raw sound readings can be converted into equivalent loudness
 A weighted:
 ![alt tag](L_Aeq_-_Mon_Jul_25_05_38_30_2022.png)
 
+L_Aeq was determined in chunks of 10secs so that individual thumps
+can be seen in the plot above. The best equivalent scenario is
+a *railway* with a train rumbling past where the duration of L_Aeq
+is the time the train take to get past the house. Here it's a single
+"thud" which can be captured within 10 sec chunks.
+
 The orange line is the permitted equivalent A weighted loudness set
 by the Scottish Government. In particular today it went way over
 the threshold.
+
+I've also measured the acceleration of the floor next to my beg last night:
+![alt tag](Acceleration_-_Sun_Jul_24_23_44_50_2022.png)
+see: https://www.euronoise2018.eu/docs/papers/277_Euronoise2018.pdf
+about the analysis of gym kit hitting the ground.
 
 ## Sound files
 
