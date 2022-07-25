@@ -478,9 +478,10 @@ The orange line is the permitted equivalent A weighted loudness set
 by the Scottish Government. In particular today it went way over
 the threshold.
 
-I've also measured the acceleration of the floor next to my beg last night:
+I've also measured the acceleration of the floor next to my bed last night
+with the http://www.attys.tech:
 ![alt tag](Acceleration_-_Sun_Jul_24_23_44_50_2022.png)
-see: https://www.euronoise2018.eu/docs/papers/277_Euronoise2018.pdf
+see https://www.euronoise2018.eu/docs/papers/277_Euronoise2018.pdf
 about the analysis of gym kit hitting the ground.
 
 ## Sound files
