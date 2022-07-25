@@ -442,6 +442,10 @@ Thud #13 at 2022-07-24 05:08:09.566000
 Quiet-ish except for some hammering in the middle
 of the night but then at 5:30am he went for it!
 
+The sound recorder went off scale twice. Really
+wondering what's left of the floor in the flat
+below.
+
 ![alt tag](Loudness_-_Sun_Jul_24_23_56_00_2022.png)
 
 ```
@@ -466,7 +470,7 @@ A weighted:
 
 The orange line is the permitted equivalent A weighted loudness set
 by the Scottish Government. In particular today it went way over
-the threshold and my sound recorder went actually off the scale once.
+the threshold.
 
 ## Sound files
 
