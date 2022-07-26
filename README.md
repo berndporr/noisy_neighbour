@@ -69,7 +69,9 @@ permitted LAeq at night time published by the Scottish government.
 
 A lot of the noise goes above the permitted level which
 isn't surprising because even the pavement on the street
-was shaking while I was chatting to the police officers.
+was shaking. Note that the sound recorder went off scale
+so the readings would have been even higher than the peaks
+at 55dB LAeq.
 
 # 6th July
 
