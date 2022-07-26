@@ -58,6 +58,19 @@ Thud #14 at 2022-07-05 05:08:57.520000
 Thud #15 at 2022-07-05 05:11:19.898000
 ```
 
+## A-weighted dB levels (LAeq)
+
+The above plot calibrated to equivalent dB A weighted LAeq (see
+`LAeq_math.py` and
+https://github.com/berndporr/sound_weighting_filters) and the
+permitted LAeq at night time published by the Scottish government.
+
+![alt tag](L_Aeq_-_Tue_Jul__5_04_38_00_2022.png)
+
+A lot of the noise goes above the permitted level which
+isn't surprising because even the pavement on the street
+was shaking while I was chatting to the police officers.
+
 # 6th July
 
 It was all quiet till exactly 2:30am in the morning and then the
@@ -405,16 +418,14 @@ Thud #13 at 2022-07-23 06:56:47.238000
 Thud #14 at 2022-07-23 07:00:40.866000
 ```
 
-## NEW: A-weighted dB levels
+## A-weighted dB levels (LAeq)
 
-I've calibrated the zoom recorder to dB A weighted (see `leq_math.py`
-and https://github.com/berndporr/sound_weighting_filters) so here is
-the plot in dB with the threshold of the Scottish government.
+Above plot calibrated in dB with the threshold of the Scottish
+government.
 https://www.gov.scot/publications/antisocial-behaviour-etc-scotland-act-2004-guidance-noise-nuisance/pages/1/
 ![alt tag](L_Aeq_-_Sat_Jul_23_06_23_00_2022.png) Even that that the
-thuds are very low frequency and because of the A weighting highly
-damped they still go easily over the threshold. Because of the impulse
-like nature I've used chunks of 10sec.
+thuds are very low frequency and the A weighting highly devalues low
+frequency thuds they still go easily over the threshold.
 
 # 24 July
 
@@ -466,12 +477,9 @@ Thud #13 at 2022-07-25 06:13:50.634000
 Thud #14 at 2022-07-25 06:15:57.474000
 ```
 
-These raw sound readings can be converted into equivalent loudness
-A weighted:
-![alt tag](L_Aeq_-_Mon_Jul_25_05_38_30_2022.png)
+## A-weighted dB levels (LAeq)
 
-L_Aeq was determined in chunks of 10secs so that individual thumps
-can be seen in the plot above.
+![alt tag](L_Aeq_-_Mon_Jul_25_05_38_30_2022.png)
 
 The orange line is the permitted equivalent A weighted loudness set
 by the Scottish Government. In particular today it went way over
@@ -482,6 +490,9 @@ with the http://www.attys.tech:
 ![alt tag](Acceleration_-_Mon_Jul_25_05_18_10_2022.png)
 see https://www.euronoise2018.eu/docs/papers/277_Euronoise2018.pdf
 about the analysis of gym kit hitting the ground.
+
+The peak is at an acceleration of one meter per second per second.
+It certainly feels as if my bed bounces off the ground at that speed.
 
 # 26 Jul
 
