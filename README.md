@@ -483,6 +483,18 @@ with the http://www.attys.tech:
 see https://www.euronoise2018.eu/docs/papers/277_Euronoise2018.pdf
 about the analysis of gym kit hitting the ground.
 
+# 26 Jul
+
+Got woken up by a small-ish thud at 5:16 and then luckily it stopped
+after another one 5mins later.
+
+![alt tag](Loudness_-_Tue_Jul_26_23_40_00_2022.png)
+
+```
+Thud #1 at 2022-07-27 05:16:21.822000
+Thud #2 at 2022-07-27 05:21:12.618000
+```
+
 ## Sound files
 
 Original recordings were at 44kHz sampling rate.
